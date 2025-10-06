@@ -11,6 +11,10 @@ Im Seminar widmen wir uns Levinas' erstem Buch, "Totalität und Unendlichkeit" v
 * PD Dr. David Lauer (lauer@philsem.uni-kiel.de); Sprechstunde Mi 14:00 - 16:00 
 * Moritz Riemann (riemann@philsem.uni-kiel.de); Sprechstunde n.V.
 
+Philosophisches Seminar der CAU Kiel
+Wintersemester 2025/2026
+Mittwoch 10-12
+Raum LS 4 R. EG 36
 
 ## "Regierungserklärung"
 
@@ -281,6 +285,7 @@ Zeitlebens setzt er sich mit der jüdischen Religion sowie mit der Shoa auseinan
 * Thomas Bedorf, „Spur“, in: R. Konersmann (Hg.): Wörterbuch der philosophischen Metaphern. 3., erweiterte Auflage. Darmstadt 2011, S. 406 – 425.
 * Markus Dederich/Karl-Ernst Ackermann, An Stelle des Anderen. Ein interdisziplinärer Diskurs über Stellvertretung und Behinderung, Oberhausen: Athena 2011.
 * Sarah Harasym, Levinas and Lacan. The Missed Encounter, New York 1998.
+
 
 
 
