@@ -112,21 +112,21 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 
 ## Semesterplan
 
-| **29.10.2025** | **Eröffnung, Organisatorisches** | **Referat** |
+| **29.10.2025** | **Eröffnung, Organisatorisches und ein Blick ins Vorwort** | **Referat** |
 |------------|------------------------------|---------|
-| 05.11.2025 | Vorwort |--|
-| 12.11.2025 | I Das Selbe und das Andere A: Metaphysik und Transzendenz S. 35-66 | -- |
-| 19.11.2025 | I Das Selbe und das Andere B: Trennung und Rede S. 66-112| -- |
-| 26.11.2025 | I Das Selbe und das Andere C: Wahrheit und Gerechtigkeit S. 112-145| -- |
-| 03.12.2025 | I Das Selbe und das Andere D: Trennung und Absolutes S. 145-149 | Referat 1: Gewalt und Metaphysik |
-| 10.12.2025 | II  Innerlichkeit und Ökonomie A: Die Trennung als Leben S. 150-170 | -- |
-| 17.12.2024 | II  Innerlichkeit und Ökonomie B: Genuß und Vorstellung S. 170-203| -- |
-| 07.01.2026 | II  Innerlichkeit und Ökonomie C: Ich und Abhängigkeit und D: Die Bleibe S. 203-253 | -- |
-| 14.01.2026 | II  Innerlichkeit und Ökonomie E: S. 253-267 | Referat 2: Corinne Pelluchon |
-| 21.01.2026| III Das Antlitz und die Exteriorität A&B S. 267-318 |--|
-| 28.01.2026| III C: Die Ethische Beziehung und die Zeit S. 318-366 | -- |
-| 04.02.2026| IV Jenseits des Antlitzes S. 366-417 |--|
-| 11.02.2026 | **Schlussfolgerungen S. 417-447 und Abschlussdiskussion** |  |
+| 05.11.2025 | Vorwort & I A: Metaphysik und Transzendenz (19-66) |--|
+| 12.11.2025 | I B: Trennung und Rede (66-112)| -- |
+| 19.11.2025 | I C&D: Wahrheit und Gerechtigkeit, Trennung und Absolutes (112-149)| -- |
+| 26.11.2025 | Abschlussdiskussion von Teil I | -- |
+| 03.12.2025 | Referat 1: Derrida: Gewalt und Metaphysik | N.N. |
+| 10.12.2025 | II A: Die Trennung als Leben (150-170), [Kurzes Referat von uns zu II B] | -- |
+| 17.12.2024 | II C&D&E: Ich und Abhängigkeit, Die Bleibe, Innerlichkeit und Ökonomie (203-267)| -- |
+| 07.01.2026 | II C&D&E: Ich und Abhängigkeit, Die Bleibe, Innerlichkeit und Ökonomie (203-267) | -- |
+| 14.01.2026 | Referat 2: Corinne Pelluchon| N.N. |
+| 21.01.2026| III A&B: Antlitz und Sinnlichkeit, Antlitz und Ethik (267-318) |--|
+| 28.01.2026| Referat 3: Feministische Lektüren (ODER: III C: Die Ethische Beziehung und die Zeit (318-366) | N.N. |
+| 04.02.2026| IV Jenseits des Antlitzes (366-417) |--|
+| **11.02.2026** |**Schlussfolgerungen (417-447) und Abschlussdiskussion** | -- |
 
 
 **unterrichtsfrei: 22.12.2024-02.01.2026**
@@ -289,6 +289,7 @@ Zeitlebens setzt er sich mit der jüdischen Religion sowie mit der Shoa auseinan
 * Thomas Bedorf, „Spur“, in: R. Konersmann (Hg.): Wörterbuch der philosophischen Metaphern. 3., erweiterte Auflage. Darmstadt 2011, S. 406 – 425.
 * Markus Dederich/Karl-Ernst Ackermann, An Stelle des Anderen. Ein interdisziplinärer Diskurs über Stellvertretung und Behinderung, Oberhausen: Athena 2011.
 * Sarah Harasym, Levinas and Lacan. The Missed Encounter, New York 1998.
+
 
 
 
