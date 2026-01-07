@@ -125,7 +125,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 14.01.2026 |III A&B: Antlitz und Sinnlichkeit, Antlitz und Ethik (267-318) | -- |
 | 21.01.2026| IV Jenseits des Antlitzes (366-417) |--|
 | 28.01.2026| Schlussfolgerungen (417-447) |--|
-| 04.02.2026|Referat 3: Feministische Lektüren (ODER: III C: Die Ethische Beziehung und die Zeit (318-366) | Suzanna Sargsyan, Anna Eickmann |
+| 04.02.2026|Referat 3: Feministische Lektüren | Suzanna Sargsyan, Anna Eickmann |
 | **11.02.2026** |**Abschlussdiskussion** | -- |
 
 
@@ -289,6 +289,7 @@ Zeitlebens setzt er sich mit der jüdischen Religion sowie mit der Shoa auseinan
 * Thomas Bedorf, „Spur“, in: R. Konersmann (Hg.): Wörterbuch der philosophischen Metaphern. 3., erweiterte Auflage. Darmstadt 2011, S. 406 – 425.
 * Markus Dederich/Karl-Ernst Ackermann, An Stelle des Anderen. Ein interdisziplinärer Diskurs über Stellvertretung und Behinderung, Oberhausen: Athena 2011.
 * Sarah Harasym, Levinas and Lacan. The Missed Encounter, New York 1998.
+
 
 
 
