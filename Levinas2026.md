@@ -35,21 +35,26 @@ Raum LS 4 R. EG 36
 
 | **21.10.2026** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|---------|
-| 28.10.2026 |  |--|
-| 04.11.2026 |  | -- |
-| 11.11.2026 |  | -- |
-| 18.11.2026 |  | -- |
-| 25.11.2026 |  | -- |
-| 02.12.2026 |  | -- |
-| 09.12.2026 |  | -- |
-| 16.12.2026 |  | -- |
-| 23.12.2026 |  | -- |
-| 30.12.2026|   |--|
-| 06.01.2027|   |--|
-| 13.01.2027|   | -- |
-| 20.01.2027|   |--|
-| 27.01.2027|   |--|
-| **03.02.2027** |**Abschlussdiskussion** | -- |
+| 28.10.2026 | Kapitel I S. 23-41   |--|
+| 04.11.2026 | Kapitel I S. 41-62 | -- |
+| 11.11.2026 | Kapitel II S. 65-96   | -- |
+| 18.11.2026 | Kapitel II S. 96-123 | -- |
+| 25.11.2026 | Kapitel II S. 123-141| -- |
+| 02.12.2026 | Kapitel III S. 142-182 | -- |
+| 09.12.2026 | Referat 1 (oder Kapitel III S. 182-218)  | -- |
+| 16.12.2026 | Referat 1 (oder Kapitel III S. 182-218) | -- |
+| 06.01.2027| Kapitel IV S. 219-251  |--|
+| 13.01.2027| Kapitel IV S. 251-288  | -- |
+| 20.01.2027| Kapitel V / Referat 2 |--|
+| 27.01.2027| Kapitel V / Referat 3 |--|
+| **03.02.2027** |**Kapitel VI und Abschlussdiskussion** | -- |
+
+
+### Mögliche Referatsthemen (es dürfen auch eigene Vorschläge eingebracht werden)
+
+1. Lévinas, Derrida und die Gastlichkeit der Subjektivität
+2. Lévinas, Améry und der Antisemitismus der 1960er Jahre
+3. tba
 
 ## "Regierungserklärung"
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
