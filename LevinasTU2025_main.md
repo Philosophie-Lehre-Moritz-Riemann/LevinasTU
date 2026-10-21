@@ -42,7 +42,7 @@ Raum LS 4 R. EG 36
 
 **Hinweise zu den Modulen und den Prüfungsleistungen**
 
-* Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4 sowie per Email an beide Dozierenden. **Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 31.03.2027**.
+* Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4 sowie per Email an beide Dozierenden.
 
 
 ## Hinweise zu Referaten
